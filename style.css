@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box ;
+    direction: ltr ;
+}
+
+
+a{
+    text-decoration: none ;
+}
+
+body{
+    margin: 0px ;
+    font-size: 16px ;
+}
+
+.container{
+    width: 100% ;
+}
+
+.container .phone{
+    width: 400px ;
+    margin: 0px auto ;
+    background-color: green ;
+    min-height: 100vh ;
+}
